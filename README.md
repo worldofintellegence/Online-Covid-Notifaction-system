@@ -1,0 +1,2 @@
+# Online-Covid-Notifaction-system
+This Python code is notifcation system of the covid cases according to country wise you can search any country covid cases live. This Code help you and save your time even in the covid period many of the people go and check the covid cases of a countries and states. This application hep you to save your time to check the covid cases and average go to specific site and check the covid cases. Am very exciting to build it and you can check this code am providing you this code publically
